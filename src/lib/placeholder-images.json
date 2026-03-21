@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "reel-template-1",
+      "description": "Minimalist aesthetic lifestyle reel template",
+      "imageUrl": "https://images.unsplash.com/photo-1697220214880-5545ef908dd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaWZlc3R5bGUlMjBtaW5pbWFsfGVufDB8fHx8MTc3MjM3MjY0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lifestyle minimal"
+    },
+    {
+      "id": "reel-template-2",
+      "description": "Dynamic fitness motivation reel template",
+      "imageUrl": "https://images.unsplash.com/photo-1642506539297-6021bf65badc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmaXRuZXNzJTIwZHluYW1pY3xlbnwwfHx8fDE3NzIzNzI2NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness dynamic"
+    },
+    {
+      "id": "post-template-1",
+      "description": "Clean product showcase post",
+      "imageUrl": "https://images.unsplash.com/photo-1716625300720-b34970a2d890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcm9kdWN0JTIwY2xlYW58ZW58MHx8fHwxNzcyMzcyNjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product clean"
+    },
+    {
+      "id": "post-template-2",
+      "description": "Travel inspiration carousel post",
+      "imageUrl": "https://images.unsplash.com/photo-1625486067485-53decde4261d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dHJhdmVsJTIwYWR2ZW50dXJlfGVufDB8fHx8MTc3MjM3MjY0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel adventure"
+    },
+    {
+      "id": "project-1",
+      "description": "My Morning Coffee Reel",
+      "imageUrl": "https://images.unsplash.com/photo-1562447457-579fc34967fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2ZmZWUlMjBhZXN0aGV0aWN8ZW58MHx8fHwxNzcyMzcyNjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee aesthetic"
+    },
+    {
+      "id": "project-2",
+      "description": "Summer Vibes Post",
+      "imageUrl": "https://images.unsplash.com/photo-1594179594534-9d826c107c10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdW1tZXIlMjBiZWFjaHxlbnwwfHx8fDE3NzIzNzI2NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "summer beach"
+    }
+  ]
+}
